@@ -2,7 +2,7 @@
 <html>    
 <head>    
     <title>Login Form</title>    
-    <link rel="stylesheet" type="text/css" href="C:\Users\zayed\OneDrive\Desktop\My amazing website\style.css">    
+    <link rel="stylesheet" type="text/css" href="main/Arctic69Wolf/BlueSteth/style.css">    
 </head>    
 <body>    
     <h2>Login Page</h2><br>    
