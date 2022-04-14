@@ -1,5 +1,4 @@
-# BlueSteth
-<!DOCTYPE html>    
+# BlueSteth 
 <html>    
 <head>    
     <title>Login Form</title>    
