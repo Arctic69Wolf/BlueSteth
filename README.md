@@ -1,2 +1,0 @@
-# BlueSteth
-vnjljfe  jkfd
